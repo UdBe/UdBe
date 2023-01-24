@@ -34,7 +34,9 @@ Hi, I'm Uday, a passionate cross platform App Developer, Web Developer and ML en
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 
 </div>
+
 ---
+
 <!--
 **UdBe/UdBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
