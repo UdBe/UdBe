@@ -11,7 +11,7 @@
 
 ### :man_technologist: About Me :
 
-Hi, I'm Uday, a passionate Machine Learning Engineer and cross-platform App developer. I love to work with new technologies and work on projects that challenge my current skills. 
+Hi, I'm Uday, a passionate Cloud & Backend Engineer. I actively work on Machine Learning problems and follow the latest research. I love to work with new technologies and work on projects that challenge my current skills. 
 
 ---
 
